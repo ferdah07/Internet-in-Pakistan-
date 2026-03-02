@@ -1,0 +1,60 @@
+{
+  "country": "Pakistan",
+  "timeline_events": [
+    {
+      "year": "1992",
+      "description": "The first dialup email service in Pakistan."
+    },
+    {
+      "year": "1995",
+      "title": "Paknet",
+      "description": "Paknet initiated dial-up text-based internet services, expanding early digital connectivity."
+    },
+    {
+      "year": "1996",
+      "title": "Comsat",
+      "description": "launched ISP speed 28.8 kbps"
+    },
+    {
+      "year": "2000",
+      "title": "First Pak submarine",
+      "description": "cable landed by PTCL- SMW3"
+    },
+    {
+      "year": "2001",
+      "title": "First Broadband",
+      "description": "DSL launched by Micronet Broadband."
+    },
+    {
+      "year": "2006",
+      "title": "Transworld ",
+      "description": "Associated launched first submarine cable linking Karachi and UAE. There was launch of first FTTH by Nayatel Pvt.Ltd"
+    },
+    { 
+      "year": "2007",
+      "title": "Wateen Telecom",
+      "description": "launched first Wimax services. "
+    },
+    {
+      "year": "2014",
+      "title": "3G & 4G",
+      "description": "Cybernet launched StormFiber, FTTH Triple Play, Optix, TW Home & other FTTH players"
+    },
+    {
+      "year": "2016",
+      "title": "4.5G LTE",
+      "description": "Wi-tribe signed contract to launch 4.5G LTE."
+
+    },
+    {
+      "year": "2018",
+      "title": "Pak-China agreement",
+      "description": "launched SCO, fiber optic cable."
+    },
+    {
+      "year":"2019",
+      "title": "5G",
+      "description": "Pakistan became the first South Asian country to test 5G services"
+    }
+  ]
+}
